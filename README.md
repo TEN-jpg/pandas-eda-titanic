@@ -13,3 +13,9 @@ Tools used:
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+
+# Recent Updates
+- Added deeper EDA on Age groups, Family status, and Fare impact
+- Analyzed survival rates by Sex + FamilyFactor
+- Included visualizations for comparative survival analysis
+
